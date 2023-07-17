@@ -13,14 +13,14 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ChakraUI,React Native,Node JS**
+- 💬 Ask me about **HTML,CSS,JavaScript,ReactJS,NodeJS**
 
-- 📫 How to reach me **anirbansharma36@gmail.com**
+- 📫 How to reach me **rahulgoon23@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/anirban-sharma1996/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/anirban-sharma1996/" height="40" width="40" /></a>
-<a href="https://instagram.com/_.cartoonwala._?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png" alt="/cartoonwala/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-goon-26b299266" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/anirban-sharma1996/" height="40" width="40" /></a>
+<a href="https://instagram.com/rahulgoon?igshid=ZDc4ODBmNjlmNQ==" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png" alt="goonrahul" height="40" width="40" /></a>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center" >

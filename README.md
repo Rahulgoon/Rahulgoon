@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Rahul Goon</h1>
-<h3 align="center">Full Stack Web Developer from West-Bengal,India</h3>
+<h3 align="center">Full Stack Web Developer ThoughtSpot Developer from West-Bengal,India</h3>
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=white&background=FFFFFF00&width=500&height=51&lines=Full+Stack+Web+Developer;Rising+Mern+Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
@@ -14,7 +14,7 @@
 - 💬 Ask me about **HTML,CSS,JavaScript,BootStrap,ReactJS,NodeJS,ExpressJS,NodeJS,MongoDB**
 
 - 📫 How to reach me **rahulgoon23@gmail.com**
-- Linked In Profile - RAHUL GOON
+- Linked In - RAHUL GOON
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -39,6 +39,7 @@
 
  </div>
   <div ><h2>Tools</h2> 
+   <img src="https://images.credly.com/images/e0ec07cd-f83a-4c84-84b5-b1a5f240ab94/blob.png" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>

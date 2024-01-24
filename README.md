@@ -9,11 +9,12 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/rahul-goon-26b299266" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="anirbansharma1996" height="40" width="40" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I have learned **MERN Stack**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,ReactJS,NodeJS**
+- 💬 Ask me about **HTML,CSS,JavaScript,BootStrap,ReactJS,NodeJS,ExpressJS,NodeJS,MongoDB**
 
 - 📫 How to reach me **rahulgoon23@gmail.com**
+- Linked In Profile - RAHUL GOON
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

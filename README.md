@@ -39,7 +39,7 @@
 
  </div>
   <div ><h2>Tools</h2> 
-   <img src="https://media.thoughtspot.com/35707/1624973736-img-blog-ts-rebrand.jpeg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://media.thoughtspot.com/35707/1624973736-img-blog-ts-rebrand.jpeg" height="20px" weight="20px" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
